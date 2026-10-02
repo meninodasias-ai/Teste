@@ -1,0 +1,6 @@
+{
+  "name": "Portal AcessiTech - Notícias de Tecnologia Assistiva",
+  "description": "Portal de notícias acessível sobre inovações em tecnologia assistiva para limitações visuais, auditivas, motoras, cognitivas e de fala.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
